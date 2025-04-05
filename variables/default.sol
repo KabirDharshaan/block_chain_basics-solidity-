@@ -21,3 +21,5 @@ contract Practice{
     string public  myName;
     bytes public  myNameInbytes;
 }
+
+
